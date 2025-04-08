@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.hellokitty {
+  cursor: none !important;
+}
